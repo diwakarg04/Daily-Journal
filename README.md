@@ -1,4 +1,2 @@
-# Daily_Journal
-# Daily-Journal
-# Daily-Journal
-# Daily-Journal
+# Daily_Journal using mongoDB
+# Daily-JourNal
