@@ -2,7 +2,12 @@ html {
   min-height: 100%;
   position: relative;
 }
-
+.inline{
+  color: #fff;
+  border-radius: 100%;
+  position: absolute;
+  background-color: #1abc9c;
+}
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
