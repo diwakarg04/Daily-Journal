@@ -2,31 +2,16 @@ html {
   min-height: 100%;
   position: relative;
 }
-.inline{
-  color: #fff;
-  border-radius: 100%;
-  position: absolute;
-  background-color: #1abc9c;
-}
+
+/*********************** CLASSES **************************/
+
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
 }
-.navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border: 0;
-    border-radius: 0;
-    margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
-}
-.navbar-nav  li a:hover {
-    color: #1abc9c !important;
-}
 
 .footer-padding {
-	padding-bottom: 60px;
+	padding-bottom: 100px;
 }
 
 .footer {
@@ -34,7 +19,7 @@ html {
 	text-align: center;
 	bottom: 0;
 	width: 100%;
-	height: 60px;
+	height: 70px;
 	background-color: #1abc9c;
 }
 
@@ -43,3 +28,31 @@ html {
 	font-size: 12px;
   color: #fff;
 }
+
+.inline{
+  color: #fff;
+  border-radius: 100%;
+  position: relative;
+  background-color: #1abc9c;
+}
+
+.inline-publish{
+  background-color: #1abc9c;
+  color: #fff;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 6px;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+
+/********************** IDS *********************/
